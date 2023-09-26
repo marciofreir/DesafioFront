@@ -1,0 +1,25 @@
+.corpo{
+    background-color: burlywood;
+    text-align: center;
+    border-style: double;
+    border-radius: 30px;
+    border-width: 7px;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+.cadastro{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    margin-top: 7px;
+}
+button{
+    margin-block: 10px;
+}
+.imagem{
+    width: 280px;
+    height: 140px;
+    margin-block: 5px;
+}
