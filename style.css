@@ -1,15 +1,12 @@
 body{
     font-family:Lato, sans-serif;
+    background-color: rgb(240, 213, 178);
 }
 .corpo{
-    background-color: rgb(240, 213, 178);
     text-align: center;
     border-style: double;
-    border-radius: 30px;
-    border-width: 7px;
     margin-left: 600px;
     margin-right: 600px;
-    margin-top: 75px;
 }
 .cadastro{
     display: flex;
@@ -18,11 +15,11 @@ body{
 input{
     margin-top: 7px;
 }
-button{
-    margin-block: 5px;
+.botao{
+    margin-bottom: 5px;
 }
 .imagem{
     width: 200px;
     height: 180px;
-    margin-block: 5px;
+    margin-bottom: 5px;
 }
