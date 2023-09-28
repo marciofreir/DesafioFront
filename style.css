@@ -1,12 +1,14 @@
 body{
     font-family:Lato, sans-serif;
     background-color: rgb(240, 213, 178);
+    border-style: solid;
+    border-top: hidden;
+    border-bottom: hidden;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 .corpo{
     text-align: center;
-    border-style: double;
-    margin-left: 500px;
-    margin-right: 500px;
 }
 .cadastro{
     display: flex;
