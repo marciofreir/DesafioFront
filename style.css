@@ -5,8 +5,8 @@ body{
 .corpo{
     text-align: center;
     border-style: double;
-    margin-left: 600px;
-    margin-right: 600px;
+    margin-left: 500px;
+    margin-right: 500px;
 }
 .cadastro{
     display: flex;
